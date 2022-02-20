@@ -1,0 +1,1 @@
+H:\blockchain project\kickstartGH\kickstart>npm install next react react-dom
