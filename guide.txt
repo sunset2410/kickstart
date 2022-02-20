@@ -40,7 +40,9 @@ Contract deployed to 0xEE3597acA08CcC66Bd530208E676338CEB0DAfb9
 
 
 
-
+# Sử dụng npm 
+npm install semantic-ui-react
+npm install semantic-ui-css
 
 
 
